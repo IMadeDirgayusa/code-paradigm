@@ -1,2 +1,2 @@
-# code-paradigm
+# code-paradigm-java
 untuk belajar
