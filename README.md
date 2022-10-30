@@ -1,0 +1,2 @@
+# code-paradigm
+untuk belajar
