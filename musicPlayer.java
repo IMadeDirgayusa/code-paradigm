@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import javax.sound.sampled.*;
 
-public class main {
+public class musicPlayer {
 
  public static void main(String[] args) throws UnsupportedAudioFileException, IOException, LineUnavailableException{
   
